@@ -1,0 +1,8 @@
+# Ignore node packages (if used later)
+node_modules/
+
+# Ignore editor settings
+.vscode/
+
+# Ignore system files
+.DS_Store
