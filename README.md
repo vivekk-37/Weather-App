@@ -38,5 +38,9 @@ No frameworks or libraries are used, keeping the project lightweight and easy to
 
 ---
 
-## Project Structure
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/vivekk-37/weather-app.git
 
